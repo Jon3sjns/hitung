@@ -1,1 +1,3 @@
 # hitung
+
+#tool simple gannnn:)
