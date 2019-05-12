@@ -1,4 +1,4 @@
-#
+#!/bin/bash
 #mau ngapain bang:)
 #lu recode,terserah deh penting buat belajar yaaa:)
 
